@@ -66,7 +66,7 @@ Edit book details
 Delete a book
 Add a new author
 Delete an author and all their books
-Export book list to CSV
+Export book list to CSV/Excel
 
 
 Database Schema
