@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.vsidx
+*.wsuo
+*.suo
+*.user
+
+# Build output
+**/bin/
+**/obj/
+
+# Node
+node_modules/
+dist/
+
+# Secrets
+appsettings.Development.json
