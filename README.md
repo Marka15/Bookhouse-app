@@ -32,7 +32,7 @@ Right-click the project in Visual Studio → Manage User Secrets and paste:
     "DefaultConnection": "Host=localhost;Database=bookhouse_db;Username=postgres;Password=YOUR_PASSWORD"
   },
   "Jwt": {
-    "Key": "your_super_secret_key_bookhouse_2024_very_long"
+    "Key": "your_super_secret_key"
   }
 }
 
